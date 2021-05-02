@@ -1,9 +1,10 @@
 package main
 
 import (
-	"github.com/bmizerany/pat"
 	"goChat/internal/handlers"
 	"net/http"
+
+	"github.com/bmizerany/pat"
 )
 
 func routes() http.Handler {

@@ -1,9 +1,10 @@
 package main
 
 import (
-	"goChat/internal/handlers"
 	"log"
 	"net/http"
+
+	"goChat/internal/handlers"
 )
 
 func main() {
